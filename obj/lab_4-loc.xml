@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>E:\Univer\paralel\lab_4.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\Univer\paralel\lab_4.gpr</vfs_project>
+      <vfs_file>E:\Univer\paralel\src\arrman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 50" line=" 80" >
+      <vfs_project>E:\Univer\paralel\lab_4.gpr</vfs_project>
+      <vfs_file>E:\Univer\paralel\src\arrman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 69" >
+      <vfs_project>E:\Univer\paralel\lab_4.gpr</vfs_project>
+      <vfs_file>E:\Univer\paralel\src\arrman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 54" >
+      <vfs_project>E:\Univer\paralel\lab_4.gpr</vfs_project>
+      <vfs_file>E:\Univer\paralel\src\arrman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 69" >
+      <vfs_project>E:\Univer\paralel\lab_4.gpr</vfs_project>
+      <vfs_file>E:\Univer\paralel\src\arrman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 51" line=" 66" >
+      <vfs_project>E:\Univer\paralel\lab_4.gpr</vfs_project>
+      <vfs_file>E:\Univer\paralel\src\arrman.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 24" line=" 63" >
+      <vfs_project>E:\Univer\paralel\lab_4.gpr</vfs_project>
+      <vfs_file>E:\Univer\paralel\src\arrman.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
